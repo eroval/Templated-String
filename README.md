@@ -1,2 +1,2 @@
 # Templated-String
-A template string class which will have broader input/output than the default one
+A template string class which will have broader input/output than the default one. This is more of a test project.
